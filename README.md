@@ -1,5 +1,6 @@
 # S H N
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a56d6d13-dc41-4bce-adb8-2690f491c3e9/deploy-status)](https://app.netlify.com/sites/shn/deploys)
+
 Search Hacker News
 
 ## Demo Website
