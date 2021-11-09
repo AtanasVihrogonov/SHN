@@ -6,7 +6,7 @@ import Stories from './components/Stories';
 function App() {
   return (
     <div className='App'>
-      <h2>hacker news starter</h2>
+      <SearchForm />
     </div>
   );
 }
